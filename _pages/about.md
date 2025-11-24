@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am Full Professor of Artificial Intelligence in the Computer Science Department of the Universitat Autònoma de Barcelona (UAB). In 1996, I received my PhD degree at the UAB for my work on texture analysis and representation. I am an affiliate researcher at the Computer Vision Centre, where I research in the Colour in Context group on computational models of colour perception. My research is done from a multidisciplinary point of view combining computer vision, color science and psychophysics. Main research interests have been in colour naming, induction, texture. saliency, constancy and cue combination. I teach some courses on artificial intelligence and manage the Master in Computer Vision of UAB/UOC/UPC/UPF.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
