@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Computer Vision Center</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Computer Vision Center / Universitat Autònoma de Barcelona </a>
 
 profile:
   align: right
